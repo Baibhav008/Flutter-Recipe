@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   google_fonts: ^4.0.4
   http: ^1.2.1
+  webview_flutter: 2.8.0
+  flutter_spinkit: ^5.2.1
+  motion_toast: ^2.10.0
 
 dev_dependencies:
   flutter_test:
